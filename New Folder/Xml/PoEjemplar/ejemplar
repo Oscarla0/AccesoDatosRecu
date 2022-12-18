@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ejemplares>
+  <ejemplar>
+    <id_peli>1</id_peli>
+    <numero>1</numero>
+    <estado>Disponible</estado>
+  </ejemplar>
+  <ejemplar>
+    <id_peli>2</id_peli>
+    <numero>2</numero>
+    <estado>Disponible</estado>
+  </ejemplar>
+  <ejemplar>
+    <id_peli>3</id_peli>
+    <numero>3</numero>
+    <estado>Disponible</estado>
+  </ejemplar>
+  <ejemplar>
+    <id_peli>4</id_peli>
+    <numero>4</numero>
+    <estado>Disponible</estado>
+  </ejemplar>
+  <ejemplar>
+    <id_peli>5</id_peli>
+    <numero>5</numero>
+    <estado>Disponible</estado>
+  </ejemplar>
+</ejemplares>

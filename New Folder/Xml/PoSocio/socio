@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<socios>
+  <socio>
+    <dni>12345678A</dni>
+    <nombre>Juan Pérez</nombre>
+    <direccion>Calle Falsa 123</direccion>
+    <telefono>9876543210</telefono>
+    <avalador>Ana Martínez</avalador>
+  </socio>
+  <socio>
+    <dni>87654321B</dni>
+    <nombre>Ana Martínez</nombre>
+    <direccion>Calle Real 456</direccion>
+    <telefono>0123456789</telefono>
+    <avalador>Juan Pérez</avalador>
+  </socio>
+  <socio>
+    <dni>11111111C</dni>
+    <nombre>Pedro Gómez</nombre>
+    <direccion>Calle Larga 789</direccion>
+    <telefono>1357911131</telefono>
+    <avalador>María Díaz</avalador>
+  </socio>
+  <socio>
+    <dni>22222222D</dni>
+    <nombre>María Díaz</nombre>
+    <direccion>Calle Corta 159</direccion>
+    <telefono>246802468</telefono>
+    <avalador>Pedro Gómez</avalador>
+  </socio>
+  <socio>
+    <dni>33333333E</dni>
+    <nombre>Pablo Ruiz</nombre>
+    <direccion>Calle Ancha 357</direccion>
+    <telefono>369258147</telefono>
+    <avalador>Sandra Fernández</avalador>
+  </socio>
+</socios>
