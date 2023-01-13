@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<actores>
+  <actor>
+    <nombre>Sandra Bullock</nombre>
+    <nacionalidad>Estadounidense</nacionalidad>
+    <sexo>Femenino</sexo>
+  </actor>
+  <actor>
+    <nombre>Tom Hanks</nombre>
+    <nacionalidad>Estadounidense</nacionalidad>
+    <sexo>Masculino</sexo>
+  </actor>
+  <actor>
+    <nombre>Cate Blanchett</nombre>
+    <nacionalidad>Australiana</nacionalidad>
+    <sexo>Femenino</sexo>
+  </actor>
+  <actor>
+    <nombre>Denzel Washington</nombre>
+    <nacionalidad>Estadounidense</nacionalidad>
+    <sexo>Masculino</sexo>
+  </actor>
+  <actor>
+    <nombre>Meryl Streep</nombre>
+    <nacionalidad>Estadounidense</nacionalidad>
+    <sexo>Femenino</sexo>
+  </actor>
+</actores>
